@@ -21,7 +21,7 @@ module.exports = merge(common, {
   
   output: {
     filename: "[name].bundle.js", // MD5 Hashing; ':8' limits hash to 8 characters
-    path: path.resolve(__dirname, "build"),
+    path: path.resolve(__dirname, "dist"),
     publicPath: ''
   },
 });
