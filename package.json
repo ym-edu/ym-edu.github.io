@@ -1,5 +1,5 @@
 {
-  "name": "webpack-demo",
+  "name": "ym-edu.github.io",
   "version": "1.0.0",
   "description": "webpack setup follow along with Colt Steele https://www.youtube.com/watch?v=MpGLUVbqoYQ&t=4491s",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idea-nym/webpack-demo.git"
+    "url": "git+https://github.com/ym-edu/ym-edu.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/idea-nym/webpack-demo/issues"
+    "url": "https://github.com/ym-edu/ym-edu.github.io/issues"
   },
-  "homepage": "https://github.com/idea-nym/webpack-demo#readme",
+  "homepage": "https://github.com/ym-edu/ym-edu.github.io#readme",
   "devDependencies": {
     "bootstrap": "^4.5.3",
     "clean-webpack-plugin": "^3.0.0",
